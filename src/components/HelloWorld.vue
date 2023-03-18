@@ -2,6 +2,9 @@
 // defineProps<{
 //   msg: string
 // }>()
+export default {
+
+}
 </script>
 
 <template>
@@ -47,4 +50,5 @@
   text-align: center;
   padding: 20px;
   /* background-color: aliceblue; */
-}</style>
+}
+</style>
