@@ -17,7 +17,7 @@ export default {
 <template>
   <div class="info" v-if="inputValue1 != ''">
     <div class="infoContent">
-      <InfoContent/>
+      <InfoContent />
     </div>
   </div>
 </template>
