@@ -1,7 +1,5 @@
 <script lang="ts">
-// import InfoContent from '../components/HelloWorld.vue'
 import axios from 'axios';
-import type { InferCustomEventPayload } from 'vite/types/customEvent';
 
 interface InfoCep {
   cep: null;
@@ -86,13 +84,6 @@ export default {
   //       });
   //   }
 }
-
-// var wait = true;
-
-// // Espera 10 segundos antes de exibir a div
-// setTimeout(function() {
-//     document.getElementById("infoContent").style.display = "block";
-// }, 10000);
 
 </script>
 
